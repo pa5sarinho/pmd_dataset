@@ -7,21 +7,11 @@ Pokemon Mystery Dungeon dataset with locations, recruit rates and friend areas. 
 I scraped all the info from [bulbapedia](https://bulbapedia.bulbagarden.net). My jupyter notebook is available.
 This repository has both the CSV and JSON files.
 
+The html was inconsistent throughout all 492 pokemon, so I had to manually fix/add stuff. I might have missed something!
+
 Here's what it looks like:
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>

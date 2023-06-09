@@ -12,7 +12,6 @@ The html was inconsistent throughout all 492 pokemon, so I had to manually fix/a
 Here's what it looks like:
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

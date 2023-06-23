@@ -1,4 +1,4 @@
-pokedex_number,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,picture
+,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,picture
 1,Bulbasaur,"Starter Pokémon, Partner Pokémon, Joyous Tower(1F-5F)",12.5%,Beau Plains,"Starter Pokémon, Partner Pokémon, Mystifying Forest(B1-B13), Mystery Jungle(B1-B29)",8.2%,//archives.bulbagarden.net/media/upload/f/fa/MDP_E_001.png
 2,Ivysaur,Western Cave(B19F-B27F),-19%,Beau Plains,"Mystifying Forest(B1-B13), Sky Peak(1st Station Pass 1F-6th Station Pass 3F), Mystery Jungle(B1-B29)",-10%,//archives.bulbagarden.net/media/upload/3/34/MDP_E_002.png
 3,Venusaur,"Evolve, Ivysaur",Evolve,Beau Plains,Mystery Jungle(1F-29F),-12%,//archives.bulbagarden.net/media/upload/8/8c/MDP_E_003.png
@@ -67,7 +67,7 @@ pokedex_number,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,pictur
 66,Machop,"Starter Pokémon, Buried Relic(B4F-B8F), Wish Cave(B17F-B19F, B21F-B25F)",10.5%,Mt. Discipline,"Mt. Bristle(1F-9F), Labyrinth Cave(B1-B9), Final Maze(B1-B48)",8.2%,//archives.bulbagarden.net/media/upload/1/18/MDP_RT_066.png
 67,Machoke,"Fiery Field(17F-25F), Buried Relic(B80F-B87F)",-19%,Mt. Discipline,"Aegis Cave(Rock B2F-B3F, Steel B1F-B4F, Pit B1F-B3F)",-4.5%,//archives.bulbagarden.net/media/upload/c/c5/MDP_E_067.png
 68,Machamp,"Evolve, Machoke",Evolve,Mt. Discipline,"Aegis Cave(Rock B2F-B3F, Steel B1F-B4F, Pit B1F-B3F)",-10%,//archives.bulbagarden.net/media/upload/1/17/MDP_E_068.png
-69,Bellsprout,Wish Cave(B1F-B3F),(B1F-B3F),MD Time,"Mystifying Forest(1F-13F), Mystery Jungle(1F-29F), Midnight Forest(B1F-B21F)",8.2%,//archives.bulbagarden.net/media/upload/7/7e/MDP_E_069.png
+69,Bellsprout,Wish Cave(B1F-B3F),9.3%,Jungle,"Mystifying Forest(1F-13F), Mystery Jungle(1F-29F), Midnight Forest(B1F-B21F)",8.2%,//archives.bulbagarden.net/media/upload/7/7e/MDP_E_069.png
 70,Weepinbell,"Evolve, Bellsprout",-19%,Jungle,"Mystifying Forest(1F-13F), Sky Peak(1st Station Pass 1F - 6th Station Pass 3F), Mystery Jungle(1F-29F)",-10%,//archives.bulbagarden.net/media/upload/9/9b/MDP_E_070.png
 71,Victreebel,"Evolve, Weepinbell",Evolve,Jungle,Mystery Jungle(1F-29F),-12%,//archives.bulbagarden.net/media/upload/8/86/MDP_E_071.png
 72,Tentacool,"Stormy Sea(B1F-B8F), Silver Trench(B1F-B9F), Grand Sea(B1F-B9F), Marvelous Sea(B1F-B9F), Fantasy Strait(B1F-B9F)",8.3%,Bountiful Sea,"Brine Cave(B6F-B9F, Lower Brine Cave B1F-B5F)",8.2%,//archives.bulbagarden.net/media/upload/7/75/MDP_E_072.png
@@ -158,7 +158,7 @@ pokedex_number,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,pictur
 157,Typhlosion,Quilava,Evolve,Scorched Plains,"Dark Crater(B6F-B9F, B11F-B14F)",-12%,//archives.bulbagarden.net/media/upload/1/14/MDP_E_157.png
 158,Totodile,"Starter Pokémon, Partner Pokémon, Wyvern Hill(6F-11F), Waterfall Pond(6F-10F)",11.4%,Rub-a-Dub River,"Starter Pokémon, Partner Pokémon, Lake Afar(B5F-B11F)",8.2%,//archives.bulbagarden.net/media/upload/3/38/MDP_RT_158.png
 159,Croconaw,"Northwind Field(27F-29F), Mt. Faraway(30F-39F)",-19%,Rub-a-Dub River,Lake Afar(B1F-B15F),-10%,//archives.bulbagarden.net/media/upload/4/4c/MDP_E_159.png
-160,Feraligatr,Western Cave(49F-58F),(49F-58F),MD Time,Lake Afar(B16F-B24F),-33.9%,//archives.bulbagarden.net/media/upload/c/c3/MDP_E_160.png
+160,Feraligatr,Western Cave(49F-58F),-33.9%,Rub-a-Dub River,Lake Afar(B16F-B24F),-33.9%,//archives.bulbagarden.net/media/upload/c/c3/MDP_E_160.png
 161,Sentret,Sinister Woods(3F-6F),7.3%,Thunder Meadow,"Mt. Travail(1F-19F), Shimmer Hill(1F-17F)",6.4%,//archives.bulbagarden.net/media/upload/7/78/MDP_E_161.png
 162,Furret,"Evolve, Sentret",Evolve,Thunder Meadow,"Sky Peak(6th Station Pass 1F-Summit Pass 5F), Mt. Travail(1F-19F)",-4.5%,//archives.bulbagarden.net/media/upload/7/76/MDP_E_162.png
 163,Hoothoot,"Sinister Woods(10F-12F), Northern Range(1F-5F), Buried Relic(5F-9F), Remains Island(B1-B3)",7%,Flyaway Forest,Foggy Forest(1F-5F),6.4%,//archives.bulbagarden.net/media/upload/7/7d/MDP_E_163.png
@@ -258,7 +258,7 @@ pokedex_number,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,pictur
 257,Blaziken,"Evolve, Combusken",Evolve,Scorched Plains,Dark Crater(B9F-B14F),-12%,//archives.bulbagarden.net/media/upload/3/3b/MDP_E_257.png
 258,Mudkip,"Starter Pokémon, Partner Pokémon, Waterfall Pond(1F-3F)",12.3%,Peanut Swamp,"Starter Pokémon, Partner Pokémon, Lake Afar(B1F-B9F)",8.2%,//archives.bulbagarden.net/media/upload/d/df/MDP_RT_258.png
 259,Marshtomp,"Mt. Faraway(10F-19F), Waterfall Pond(13F-18F)",-19%,Peanut Swamp,Lake Afar(B10F-B19F),-10%,//archives.bulbagarden.net/media/upload/8/87/MDP_E_259.png
-260,Swampert,Western Cave(79F-88F),(79F-88F),MD Time,Lake Afar(B20F-B24F),-12%,//archives.bulbagarden.net/media/upload/1/1d/MDP_E_260.png
+260,Swampert,Western Cave(79F-88F),-33.9%,Peanut Swamp,Lake Afar(B20F-B24F),-12%,//archives.bulbagarden.net/media/upload/1/1d/MDP_E_260.png
 261,Poochyena,"Thunderwave Cave(1F-3F), Howling Forest(1F-8F)",8.2%,Wild Plains,"Concealed Ruins(B1F-B15F), World Abyss(B1F-B15F), Final Maze(B1F-B48F)",8.2%,//archives.bulbagarden.net/media/upload/e/e9/MDP_E_261.png
 262,Mightyena,"Evolve, Poochyena",Evolve,Wild Plains,"Concealed Ruins(B16F-B29F), World Abyss(B16F-B29F)",-4.5%,//archives.bulbagarden.net/media/upload/7/79/MDP_E_262.png
 263,Zigzagoon,Mt. Steel(1F-5F),8.5%,Wild Plains,Foggy Forest(1F-11F),8.2%,//archives.bulbagarden.net/media/upload/8/87/MDP_E_263.png
@@ -290,7 +290,7 @@ pokedex_number,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,pictur
 289,Slaking,"Evolve, Vigoroth",Evolve,Energetic Forest,"Crevice Cave(B1F-B10F, Lower Crevice Cave B1F-B4F), Mt. Avalanche(1F-19F)",-12%,//archives.bulbagarden.net/media/upload/f/f5/MDP_E_289.png
 290,Nincada,"Lapis Cave(1F-4F), Wish Cave(44F-49F), Joyous Tower(45F-49F)",7.4%,Secretive Forest,"Quicksand Cave(B1F-B7F), Midnight Forest(B1F-B21F)",6.4%,//archives.bulbagarden.net/media/upload/6/6c/MDP_E_290.png
 291,Ninjask,"Evolve, Nincada",Evolve,Secretive Forest,Quicksand Pit(B5F-B10F),0.5%,//archives.bulbagarden.net/media/upload/4/46/MDP_E_291.png
-292,Shedinja,"Evolve, Nincada",Evolve,Secretive Forest,"Mt. Travail(1F-19F), Sky Peak(8th Station Pass 1F-Sky Peak Summit Pass 5F)",-12%,//archives.bulbagarden.net/media/upload/d/d7/Bag_TM_Normal_SwSh_Sprite.png
+292,Shedinja,"Evolve, Nincada",Evolve,Secretive Forest,"Mt. Travail(1F-19F), Sky Peak(8th Station Pass 1F-Sky Peak Summit Pass 5F)",-12%,https://archives.bulbagarden.net/media/upload/3/38/MDP_E_292.png
 293,Whismur,"Howling Forest(1F-8F), Buried Relic(4F-8F)",8.8%,Echo Cave,Marine Resort(1F-19F),8.2%,//archives.bulbagarden.net/media/upload/8/82/MDP_E_293.png
 294,Loudred,Howling Forest(9F-14F),-19%,Echo Cave,"Concealed Ruins(B1F-B15F), World Abyss(B1F-B15F)",-10%,//archives.bulbagarden.net/media/upload/c/c5/MDP_E_294.png
 295,Exploud,"Evolve, Loudred",Evolve,Echo Cave,"Concealed Ruins(B16F-B29F), World Abyss(B16F-B29F)",-12%,//archives.bulbagarden.net/media/upload/f/fe/MDP_E_295.png
@@ -314,7 +314,7 @@ pokedex_number,name,rt_location,rt_rate,friend_area,sky_location,sky_rate,pictur
 313,Volbeat,Northwind Field(1F-6F),8.6%,Rub-a-Dub River,Upper Steam Cave(1F-7F),8.2%,//archives.bulbagarden.net/media/upload/c/c1/MDP_E_313.png
 314,Illumise,"Lapis Cave(5F-8F), Wish Cave(47F-52F)",7.3%,Rub-a-Dub River,Upper Steam Cave(1F-7F),8.2%,//archives.bulbagarden.net/media/upload/a/a0/MDP_E_314.png
 315,Roselia,Wonder Mailcode,7%,Beau Plains,"Mystifying Forest(1F-13F), Sky Peak(1st Station Pass 1F-6th Station Pass 3F), Mystery Jungle(1F-29F), Midnight Forest(B1F-B24F)",6.4%,//archives.bulbagarden.net/media/upload/a/ae/MDP_E_315.png
-316,Gulpin,Buried Relic(14F-19F),(14F-19F),MD Darkness,"Mystifying Forest(1F-13F), Mystery Jungle(1F-29F), Happy Outlook(B1F-B15F)",6.9%,//archives.bulbagarden.net/media/upload/e/e0/MDP_RT_316.png
+316,Gulpin,Buried Relic(14F-19F),6.9%,Poison Swamp,"Mystifying Forest(1F-13F), Mystery Jungle(1F-29F), Happy Outlook(B1F-B15F)",6.9%,//archives.bulbagarden.net/media/upload/e/e0/MDP_RT_316.png
 317,Swalot,"Evolve, Gulpin",Evolve,Poison Swamp,Marine Resort(9F-19F),-12%,//archives.bulbagarden.net/media/upload/1/18/MDP_E_317.png
 318,Carvanha,"Stormy Sea(35F-39F), Silver Trench(30F-39F), Far-off Sea(30F-39F), Fantasy Strait(B30)",8.9%,Treasure Sea,Surrounded Sea(B1F-B14F),0.5%,//archives.bulbagarden.net/media/upload/8/8b/MDP_E_318.png
 319,Sharpedo,"Evolve, Carvanha",Evolve,Treasure Sea,"Miracle Sea(B1F-B18F, Deep Miracle Sea B1F-B4F)",-12%,//archives.bulbagarden.net/media/upload/4/45/MDP_E_319.png
